@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\bin\Debug\net5.0\SocialMedia.Utilities.deps.json
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\bin\Debug\net5.0\SocialMedia.Utilities.dll
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\bin\Debug\net5.0\ref\SocialMedia.Utilities.dll
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\bin\Debug\net5.0\SocialMedia.Utilities.pdb
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\obj\Debug\net5.0\SocialMedia.Utilities.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\obj\Debug\net5.0\SocialMedia.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\obj\Debug\net5.0\SocialMedia.Utilities.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\obj\Debug\net5.0\SocialMedia.Utilities.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\obj\Debug\net5.0\SocialMedia.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\obj\Debug\net5.0\SocialMedia.Utilities.dll
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\obj\Debug\net5.0\ref\SocialMedia.Utilities.dll
+C:\Users\hp\OneDrive\Documents\Portfolio\SocialMedia\SocialMedia.Utilities\obj\Debug\net5.0\SocialMedia.Utilities.pdb
